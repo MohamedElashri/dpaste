@@ -1,0 +1,10 @@
+{
+  "name": "dpaste",
+  "version": "3.0.0",
+  "repository": "https://github.com/bartTC/dpaste",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.15.2",
+    "uglify-es": "^3.3.10"
+  }
+}
