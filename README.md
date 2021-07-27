@@ -27,5 +27,5 @@ $ docker run --rm -p 12345:12345 \
       -e DEBUG=True \
       -e SECRET_KEY=very-secret-key \
       -e PORT=12345 \
-      barttc/dpaste:latest
+      melashri/dpaste:latest
 ```
