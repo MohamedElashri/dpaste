@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/MohamedElashri/dpaste/actions/workflows/build_test.yml/badge.svg)](https://github.com/MohamedElashri/dpaste/actions/workflows/build_test.yml)
+
 # dpaste
 multi platform automated build for [dpaste](https://github.com/bartTC/dpaste) docker image 
 Supported platforms:
