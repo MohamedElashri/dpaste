@@ -1,4 +1,5 @@
 [![Docker Image CI](https://github.com/MohamedElashri/dpaste/actions/workflows/build_test.yml/badge.svg)](https://github.com/MohamedElashri/dpaste/actions/workflows/build_test.yml)
+[![CodeQL](https://github.com/MohamedElashri/dpaste/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MohamedElashri/dpaste/actions/workflows/codeql-analysis.yml)
 
 # dpaste
 multi platform automated build for [dpaste](https://github.com/bartTC/dpaste) docker image 
