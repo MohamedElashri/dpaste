@@ -4,7 +4,7 @@
   "repository": "https://github.com/bartTC/dpaste",
   "license": "MIT",
   "dependencies": {
-    "sass": "1.42.0",
+    "sass": "1.43.2",
     "uglify-es": "3.3.10"
   }
 }
